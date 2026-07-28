@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-fbb5ft.idncuan.xyz/sitemap.xml
